@@ -10,7 +10,7 @@ It brings some useful tags that will allow you to customize your code sections
 just like you want, because of it's integration with textpattern's templates.
 
 Here is the link to the plugin's page:
-[information page](http://greyfox.imente.org/index.php?id=51)
+[information page](http://www.riccardotraverso.it/Software/51/fox_code)
 It's written in italian, but the plugin's help page (the one that you can read
 from textpattern I mean) it's in english.
 This plugin also has
